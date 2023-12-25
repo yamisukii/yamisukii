@@ -20,4 +20,6 @@ While I navigate the backend, I also delve into the exciting realms of blockchai
 - Ethereum and Smart Contracts
 - Go (Golang) and TypeScript (Node.js)
 
-🚀 Excited to connect with fellow developers and tech enthusiasts. Let's build the future of tech together! 🌐
+🚀 Excited to connect with fellow developers and tech enthusiasts.🌐
+
+contact: merdian.stefan@gmail.com
