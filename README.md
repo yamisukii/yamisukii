@@ -1,20 +1,23 @@
-👋 Hey there! I'm Stefan Merdian, a computer science graduate and junior backend developer with a passion for blockchain and decentralized finance (DeFi).
+👋 Hi there! I'm Stefan Merdian, a computer science graduate and budding backend developer with a fascination for blockchain and decentralized finance (DeFi).
 
-💻 **Technical Background:**
+💼 **Professional Background:**
 - Computer Science BA Sc.
 - Junior Backend Developer
 - Junior Solidity Developer
 
-🔗 **Blockchain and DeFi Advocate:**
-I'm deeply interested in blockchain technology, cryptography, and the innovative space of DeFi. Actively contributing to Ethereum and smart contract development.
+🚀 **Backend Enthusiast:**
+I'm deeply passionate about backend development, exploring APIs, and optimizing server connections. Always eager to dive into new challenges!
 
-📚 **Areas of Expertise:**
+🔗 **Blockchain and DeFi Explorer:**
+While I navigate the backend, I also delve into the exciting realms of blockchain, cryptography, and DeFi. Actively contributing to Ethereum and smart contract development.
+
+📚 **Tech Stack:**
+- Backend Development
+- API Design and Implementation
 - Blockchain Technology
 - Cryptography
 - Decentralized Finance (DeFi)
 - Ethereum and Smart Contracts
-- API Development
-- Server Connection
 - Go (Golang) and TypeScript (Node.js)
 
-🚀 Excited to connect with developers and enthusiasts. Let's build the future of tech together!
+🚀 Excited to connect with fellow developers and tech enthusiasts. Let's build the future of tech together! 🌐
