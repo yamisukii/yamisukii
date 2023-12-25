@@ -6,7 +6,7 @@
 - Junior Solidity Developer
 
 🚀 **Backend Enthusiast:**
-I'm deeply passionate about backend development, exploring APIs, and optimizing server connections. Always eager to dive into new challenges!
+I'm deeply passionate about backend development, exploring APIs. Always eager to dive into new challenges!
 
 🔗 **Blockchain and DeFi Explorer:**
 While I navigate the backend, I also delve into the exciting realms of blockchain, cryptography, and DeFi. Actively contributing to Ethereum and smart contract development.
