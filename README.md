@@ -1,26 +1,37 @@
-👋 Hi there! I'm Stefan Merdian, a computer science graduate and budding backend developer with a fascination for blockchain and smart contarcts.
+# 👋 Hi there!  
+I'm **Stefan**, currently pursuing my **Master’s in Data Science at TU Wien**, I’m on a journey to merge backend development with advanced analytics and machine learning.  
 
-💼 **Background:**
-- Computer Science BA Sc.
-- Junior Backend Developer
-- Experience in Data Analysis
-- Experience as Solidity Developer
+---
 
-🚀 **Backend Enthusiast:**
-I'm deeply passionate about backend development, exploring APIs. Always eager to dive into new challenges!
+## 💼 Background  
+- **Media Computer Science (B.Sc.)**  
+- Experience in **Data Analysis**  
+- Knwowledge in **Solidity Developmnet**  
+- Expereience in Software Engineering
+---
 
-🔗 ** Data Analysis Enthusiast:**
-Passionate about leveraging my backend skills to dive into data analysis, I'm continuously expanding my expertise in Python, Pandas, NumPy, and Seaborn to extract insights and drive decisions. I thrive on tackling new challenges and am always on the lookout to learn more and enhance my analytical skills.
+## 🚀 Backend & Data Science Enthusiast  
+- Passionate about **backend development** and **API design**  
+- Actively exploring **machine learning**, **statistics**, and cutting-edge data technologies  
+- Thriving on challenges, always eager to learn, and excited to create impactful solutions  
 
-📚 **Tech Stack:**
-- Backend Development
-- API Design and Implementation
-- Data Analysis with Python, Pandas, NumPy, Seaborn
-- Blockchain Technology
-- Cryptography
-- Smart Contarct
+---
 
+## 📚 Tech Stack  
+- **Backend Development:** API design and implementation  
+- **Data Science:** Python, Pandas, NumPy, Seaborn, Sckit  
+- **Machine Learning:** Knowledge predictive modeling and statistical analysis  
+- **Blockchain Technology:** Cryptography, Smart Contracts  
+- **Solidity Development:** Building secure and efficient decentralized applications  
 
-🚀 Excited to connect with fellow developers and tech enthusiasts.🌐
+---
+
+## 🌟 What Drives Me  
+Leveraging my backend expertise to tackle data challenges, I’m passionate about extracting insights, driving decisions, and designing scalable solutions. My commitment to innovation and continuous learning fuels my journey in tech.
+
+---
+
+🚀 **Let’s connect and collaborate on exciting projects!** 🌐
+
 
 contact: merdian.stefan@gmail.com
